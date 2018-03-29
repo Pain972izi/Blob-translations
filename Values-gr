@@ -296,4 +296,8 @@
     <string name="info_title">Info</string>
     <string name="time_left">Übrige Zeit:</string>
     <string name="edit">Bearbeiten</string>
+    <string name="bet_value">Einsatzwert:</string>
+    <string name="create">Erstellen</string>
+    <string name="custom_server">Benutzerdefinierter Server</string>
+    <string name="custom_server_created">Benutzerdefinierter Server erstellt</string>
 </resources>
